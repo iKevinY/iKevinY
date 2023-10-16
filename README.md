@@ -1,4 +1,4 @@
-I'm a software engineer from Vancouver, and am currently living and working in Toronto. Right now, I'm a senior backend engineer at [:ice_hockey:&nbsp;**MLSE Digital Labs**](https://www.mlsedigital.com/), where I architect and manage various new products that serve the Toronto Maple Leafs, Toronto Raptors, and more.
+I'm a software engineer from Vancouver, and am currently working in Toronto. Right now, I'm a senior backend engineer at [:ice_hockey:&nbsp;**MLSE Digital Labs**](https://www.mlsedigital.com/), where I architect and manage products that serve the Toronto Maple Leafs, Toronto Raptors, and more.
 
 Previously, I led a product rewrite initiative at [:leafy_green:&nbsp;**Freshline**](https://freshline.io), worked on improving the deliverability of [:mailbox:&nbsp;**Gmail**](https://gmail.com/), and strengthened identity and attestation guarantees around [:lock:&nbsp;**Confidential Computing**](https://cloud.google.com/confidential-computing).
 
