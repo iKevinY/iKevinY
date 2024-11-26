@@ -4,4 +4,4 @@ Previously, I led a product rewrite initiative at [:leafy_green:&nbsp;**Freshlin
 
 I graduated with a CS degree from the [:mortar_board:&nbsp;**University of British Columbia**](https://www.ubc.ca/), and interned at [:punch:&nbsp;**Riot Games**](https://www.riotgames.com/), [:earth_americas:&nbsp;**Google**](https://google.com), and [:bear:&nbsp;**Axiom Zen**](https://www.axiomzen.co/). I also created [:crossed_swords:&nbsp;**zeal.gg**](https://zeal.gg/), a site for tracking the League of Legends ranked climb.
 
-Feel free to reach out to me about software development, computer science education, or video games via [**Twitter**](https://twitter.com/iKevinY)!
+Feel free to reach out to me about software development, computer science education, or video games via [**Bluesky**](https://bsky.app/profile/ikeviny.bsky.social)!
