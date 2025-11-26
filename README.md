@@ -1,4 +1,4 @@
-I'm a software engineer currently working in Toronto at [:gear:&nbsp;**Relay.app**](https://www.relay.app/), where I'm building AI agents that work for everyone.
+I'm a software engineer currently working in Toronto at [:gear:&nbsp;**Relay.app**](https://www.relay.app/), where we're building AI agents that work for everyone.
 
 Previously, I was the technical lead for a fan engagement platform at [:ice_hockey:&nbsp;**MLSE Digital Labs**](https://www.mlsedigital.com/), led a product rewrite initiative at [:leafy_green:&nbsp;**Freshline**](https://freshline.io), worked on improving the deliverability of [:mailbox:&nbsp;**Gmail**](https://gmail.com/), and strengthened identity and attestation guarantees around [:lock:&nbsp;**Confidential Computing**](https://cloud.google.com/confidential-computing).
 
